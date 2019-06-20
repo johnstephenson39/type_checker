@@ -1,0 +1,12 @@
+- (double) -> double
++ (double, double) -> double
+- (double, double) -> double
+* (double, double) -> double
+/ (double, double) -> double
+sqrt (double) -> double
+- (int) -> int
++ (int, int) -> int
+- (int, int) -> int
+* (int, int) -> int
+/ (int, int) -> int
+sqrt (int) -> int
